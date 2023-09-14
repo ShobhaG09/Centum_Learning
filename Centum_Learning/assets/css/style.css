@@ -710,6 +710,131 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+/*--------------------------------------------------------------
+# Sonata
+--------------------------------------------------------------*/
+.Sonata {
+  padding-top: 80px;
+}
+
+.Sonata .content h3 {
+  font-weight: 600;
+  font-size: 26px;
+}
+
+.Sonata .content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.Sonata .content ul li {
+  padding-left: 28px;
+  position: relative;
+}
+
+.Sonata .content ul li+li {
+  margin-top: 10px;
+}
+
+.Sonata .content ul i {
+  position: absolute;
+  left: 0;
+  top: 2px;
+  font-size: 20px;
+  color: #ef6603;
+  line-height: 1;
+}
+
+.Sonata .content p:last-child {
+  margin-bottom: 0;
+}
+
+.Sonata .content .btn-learn-more {
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 32px;
+  border-radius: 5px;
+  transition: 0.3s;
+  line-height: 1;
+  color: #ef6603;
+  animation-delay: 0.8s;
+  margin-top: 6px;
+  border: 2px solid #ef6603;
+}
+
+.Sonata .content .btn-learn-more:hover {
+  background: #ef6603;
+  color: #fff;
+  text-decoration: none;
+}
+
+
+/*--------------------------------------------------------------
+# Sonata
+--------------------------------------------------------------*/
+.Cognizant {
+  padding-top: 80px;
+}
+
+.Cognizant .content h3 {
+  font-weight: 600;
+  font-size: 26px;
+}
+
+.Cognizant .content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.Cognizant .content ul li {
+  padding-left: 28px;
+  position: relative;
+}
+
+.Cognizant .content ul li+li {
+  margin-top: 10px;
+}
+
+.Cognizant .content ul i {
+  position: absolute;
+  left: 0;
+  top: 2px;
+  font-size: 20px;
+  color: #ef6603;
+  line-height: 1;
+}
+
+.Cognizant .content p:last-child {
+  margin-bottom: 0;
+}
+
+.Cognizant .content .btn-learn-more {
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 32px;
+  border-radius: 5px;
+  transition: 0.3s;
+  line-height: 1;
+  color: #ef6603;
+  animation-delay: 0.8s;
+  margin-top: 6px;
+  border: 2px solid #ef6603;
+}
+
+.Cognizant .content .btn-learn-more:hover {
+  background: #ef6603;
+  color: #fff;
+  text-decoration: none;
+}
+
+
 /*--------------------------------------------------------------
 # Features
 --------------------------------------------------------------*/
